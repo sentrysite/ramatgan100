@@ -1,0 +1,18 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+body{background:#0044ff;}
+.login h1 a{display:none;}
+.login h1:after {content: "";display: block;width: 100%;height: 60px;margin: 25px 0 10px 0;background: url(https://sentrysite.co.il/wp-content/uploads/2020/07/Logo-SentrySite-White.svg);background-size: contain;background-repeat: no-repeat;background-position: center;}
+.login form{padding:40px;background:none;border:solid 1px #3990FF;border-radius:7px;color:#fff;}
+.wp-core-ui .button-primary{margin:15px 0 0 0;width:100%;background:#fff;border-color:#fff;color:#0d6ce5;font-weight:600;font-size:18px;text-decoration:none;text-shadow:none;}
+.wp-core-ui .button-primary.focus, .wp-core-ui .button-primary.hover, .wp-core-ui .button-primary:focus, .wp-core-ui .button-primary:hover{background:#2196F3;border-color:#2196F3;color:#fff;}
+.login #nav{text-align:center;color: #ffffff63;}
+.login #nav a {display: inline-block;padding: 0 15px;text-align: center;color: #fff;letter-spacing: 1px;text-decoration: underline;font-size: 15px;font-weight: 400;opacity: 0.65;}
+.login #backtoblog a:hover, .login #nav a:hover, .login h1 a:hover {color: #ffffff;}
+#login input {padding: 10px;font-size: 16px;}
+p#backtoblog{margin:30px 0px;padding:0;}
+p#backtoblog a{font-size:0px;}
+#backtoblog:before{display:block;content:"Developed By SENTRYSITE";text-align:center;font-size:13px;font-weight:600;letter-spacing:1px;color:#fff;}
+#backtoblog:after{display:block;content:"Advanced Digital Solutions";margin:-20px 0 0 0;font-size:11px;letter-spacing:1px;text-align:center;color:#fff;opacity:0.85;}
+.login #login_error, .login .message, .login .success {border-left: 0;margin: 15px 0px;padding: 15px;margin-left: 0;margin-bottom: 20px;background-color: #3990FF;color: #fff;box-shadow: none;text-align: center;border-radius: 5px;}</style>
+<!-- end Simple Custom CSS and JS -->
